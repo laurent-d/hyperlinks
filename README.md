@@ -6,4 +6,4 @@ Fonts
 - https://commercialtype.com/typefaces/graphik/graphik/regular
 
 Websites
-- http://edouardmalingue.com/
+- http://edouardmalingue.com/ (nice custom type, simple layout)
