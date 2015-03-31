@@ -9,3 +9,5 @@ __Fonts__
 
 __Websites__
 - http://edouardmalingue.com/ (nice custom type, simple layout)
+
+_NB: This will be sparse to begin with, need to find time to get all my browser bookmarks in here_
