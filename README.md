@@ -20,14 +20,20 @@ __Fonts__
 - https://klim.co.nz/retail-fonts/founders-grotesk/
 - https://commercialtype.com/typefaces/graphik/graphik/regular
 
-__Type foundries__
-- [Grilli Type](http://grillitype.com/)
-
 __Reading__
 - http://designvalu.es/ (Thoughts on best design practices from Berger & Fohr)
 
+__Tools__
+- [Brand Colors](http://brandcolors.net/) (A catalogue of brand hexes)
+- [Fontello](http://fontello.com/) (For creating icon font files)
+
+__Type foundries__
+- [Grilli Type](http://grillitype.com/)
+
 __Web design__
 - [Jon Kyle](http://jon-kyle.com/)
+- [Brian Watterson](http://brianwatterson.com/)
+- [James Chambers](http://jameschambers.co)
 
 __Websites__
 - http://edouardmalingue.com/ (nice custom type, simple layout)
