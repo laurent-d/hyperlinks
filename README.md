@@ -16,9 +16,10 @@ __Graphic Design__
 - [Lust](http://lust.nl/)
 
 __Fonts__
-- http://www.webtype.com/font/nitti-grotesk-family/
-- https://klim.co.nz/retail-fonts/founders-grotesk/
-- https://commercialtype.com/typefaces/graphik/graphik/regular
+- [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
+- [Fouders Grotesk](https://klim.co.nz/retail-fonts/founders-grotesk/)
+- [Graphik](https://commercialtype.com/typefaces/graphik/graphik/regular)
+- [Neue Haas Unica](http://www.monotype.com/libraries/neue-haas-unica/)
 
 __Reading__
 - http://designvalu.es/ (Thoughts on best design practices from Berger & Fohr)
