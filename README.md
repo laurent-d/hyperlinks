@@ -42,6 +42,7 @@ __Websites__
 - http://thegreensoccerjournal.com/ (Great interaction design for editorial)
 - http://www.b--i--g.com/ (Split screen site with cool index)
 - http://mmmatt.com/ (Moving image with full screen video and hover on/off credits/menu)
+- http://wxg.co.uk/ (black & white, sliding drawers, great type)(via [here](http://hoverstat.es/posts/wxg-2015))
 
 __Misc__
 - http://www.textfiles.com/ufo/
