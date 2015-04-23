@@ -52,6 +52,7 @@ __Websites__
 - http://mmmatt.com/ (Moving image with full screen video and hover on/off credits/menu)
 - http://wxg.co.uk/ (black & white, sliding drawers, great type) (via [here](http://hoverstat.es/posts/wxg-2015))
 - http://thespaces.com/ (Nice article sidebar which follows you as you scroll down)
+- http://averyreview.com/ (Novel and useful navigation, with great typography - by Eric Hu)
 
 __Misc__
 - http://www.textfiles.com/ufo/
