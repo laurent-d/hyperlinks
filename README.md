@@ -9,11 +9,12 @@ __Art directors__
 __Code experiments__
 - http://codepen.io/jakealbaugh/full/PwLXXP/ (Pen that seemingly codes itself, not in an A.I. way though)
 
-__Graphic Design__
+__Design__
 - [Think Work Observe](http://t-wo.it/category/dashboard/)
 - [Ines Cox](http://inescox.com/)
 - [Per Törnberg](http://pertornberg.com/)
 - [Lust](http://lust.nl/)
+- [Studio Moniker](http://studiomoniker.com/)
 
 __Fonts__
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
