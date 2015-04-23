@@ -23,6 +23,8 @@ __Designers__
 - [Studio Christopher West](http://www.christopherwest.se/)
 - [OK-RM](http://www.ok-rm.co.uk/)
 - [Bureau Collective](http://www.bureaucollective.ch/)
+- [Inventory](http://inventorystudio.co.uk/)
+- [Made Thought](http://www.madethought.com/)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
@@ -61,6 +63,7 @@ __Websites__
 - http://thespaces.com/ (Nice article sidebar which follows you as you scroll down)
 - http://averyreview.com/ (Novel and useful navigation, with great typography - by Eric Hu)
 - http://www.mohsinlondon.com/ (Extended type)
+- http://foodstudio.no/ (Clean site, with considered type. Splash/landing gallery is good)
 
 __Misc__
 - http://www.textfiles.com/ufo/
