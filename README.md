@@ -20,8 +20,9 @@ __Designers__
 - [Eric Hu](http://erichu.info/)
 - [Mirko Borsche](http://mirkoborsche.com/)
 - [The Entente](http://www.the-entente.org/)
+- [Studio Christopher West](http://www.christopherwest.se/)
 
-__Fonts__
+__Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
 - [Fouders Grotesk](https://klim.co.nz/retail-fonts/founders-grotesk/)
 - [Graphik](https://commercialtype.com/typefaces/graphik/graphik/regular)
