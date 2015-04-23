@@ -42,6 +42,7 @@ __Tools__
 __Type foundries__
 - [Grilli Type](http://grillitype.com/)
 - [Or Type](http://www.ortype.is/)
+- [Colophon Foundry](http://www.colophon-foundry.org/)
 
 __Web design__
 - [Jon Kyle](http://jon-kyle.com/)
