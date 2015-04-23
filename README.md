@@ -22,6 +22,7 @@ __Designers__
 - [The Entente](http://www.the-entente.org/)
 - [Studio Christopher West](http://www.christopherwest.se/)
 - [OK-RM](http://www.ok-rm.co.uk/)
+- [Bureau Collective](http://www.bureaucollective.ch/)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
