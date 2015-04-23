@@ -21,6 +21,7 @@ __Designers__
 - [Mirko Borsche](http://mirkoborsche.com/)
 - [The Entente](http://www.the-entente.org/)
 - [Studio Christopher West](http://www.christopherwest.se/)
+- [OK-RM](http://www.ok-rm.co.uk/)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
