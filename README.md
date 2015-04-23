@@ -58,6 +58,7 @@ __Websites__
 - http://wxg.co.uk/ (black & white, sliding drawers, great type) (via [here](http://hoverstat.es/posts/wxg-2015))
 - http://thespaces.com/ (Nice article sidebar which follows you as you scroll down)
 - http://averyreview.com/ (Novel and useful navigation, with great typography - by Eric Hu)
+- http://www.mohsinlondon.com/ (Extended type)
 
 __Misc__
 - http://www.textfiles.com/ufo/
