@@ -18,6 +18,8 @@ __Designers__
 - [Michael Willis](http://mwillis.eu/)
 - [Julia](http://www.julia.uk.com/)
 - [Eric Hu](http://erichu.info/)
+- [Mirko Borsche](http://mirkoborsche.com/)
+- [The Entente](http://www.the-entente.org/)
 
 __Fonts__
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
@@ -38,6 +40,7 @@ __Tools__
 
 __Type foundries__
 - [Grilli Type](http://grillitype.com/)
+- [Or Type](http://www.ortype.is/)
 
 __Web design__
 - [Jon Kyle](http://jon-kyle.com/)
