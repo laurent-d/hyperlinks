@@ -17,7 +17,7 @@ __Designers__
 - [Studio Moniker](http://studiomoniker.com/)
 - [Michael Willis](http://mwillis.eu/)
 - [Julia](http://www.julia.uk.com/)
-- [Eric Hu)(http://erichu.info/)
+- [Eric Hu](http://erichu.info/)
 
 __Fonts__
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
