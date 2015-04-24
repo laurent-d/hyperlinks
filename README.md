@@ -25,6 +25,8 @@ __Designers__
 - [Bureau Collective](http://www.bureaucollective.ch/)
 - [Inventory](http://inventorystudio.co.uk/)
 - [Made Thought](http://www.madethought.com/)
+- [Andrew McCarthy](http://andrevv.com/)
+- [Jon Kyle](http://jon-kyle.com/)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
@@ -41,6 +43,7 @@ __Reading__
 - http://silviolorusso.com/ (Experimental publishing informed by digital technology, etc.)
 - http://www.frankchimero.com/talks/the-webs-grain/transcript/ (On web design, Frank Chimero)
 
+
 __Tools__
 - [Brand Colors](http://brandcolors.net/) (A catalogue of brand hexes)
 - [Fontello](http://fontello.com/) (For creating icon font files)
@@ -51,8 +54,7 @@ __Type foundries__
 - [Colophon Foundry](http://www.colophon-foundry.org/)
 - [Medium Extra Bold](http://mediumextrabold.com/)
 
-__Web design__
-- [Jon Kyle](http://jon-kyle.com/)
+__Web development__
 - [Brian Watterson](http://brianwatterson.com/)
 - [James Chambers](http://jameschambers.co)
 
@@ -67,6 +69,7 @@ __Websites__
 - http://averyreview.com/ (Novel and useful navigation, with great typography - by Eric Hu)
 - http://www.mohsinlondon.com/ (Extended type)
 - http://foodstudio.no/ (Clean site, with considered type. Splash/landing gallery is good)
+- http://marfajournal.com/ (Interesting use of fixed backgrounds and colour)
 
 __Misc__
 - http://www.textfiles.com/ufo/
