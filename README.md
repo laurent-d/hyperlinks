@@ -48,6 +48,7 @@ __Type foundries__
 - [Grilli Type](http://grillitype.com/)
 - [Or Type](http://www.ortype.is/)
 - [Colophon Foundry](http://www.colophon-foundry.org/)
+- [Medium Extra Bold](http://mediumextrabold.com/)
 
 __Web design__
 - [Jon Kyle](http://jon-kyle.com/)
