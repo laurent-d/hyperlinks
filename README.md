@@ -39,6 +39,7 @@ __Looking__
 __Reading__
 - http://designvalu.es/ (Thoughts on best design practices from Berger & Fohr)
 - http://silviolorusso.com/ (Experimental publishing informed by digital technology, etc.)
+- http://www.frankchimero.com/talks/the-webs-grain/transcript/ (On web design, Frank Chimero)
 
 __Tools__
 - [Brand Colors](http://brandcolors.net/) (A catalogue of brand hexes)
