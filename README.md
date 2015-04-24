@@ -31,6 +31,7 @@ __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Fouders Grotesk](https://klim.co.nz/retail-fonts/founders-grotesk/)
 - [Graphik](https://commercialtype.com/typefaces/graphik/graphik/regular)
 - [Neue Haas Unica](http://www.monotype.com/libraries/neue-haas-unica/)
+- [Basis Grotesque](http://www.colophon-foundry.org/fonts/basis-grotesque/bold)
 
 __Looking__
 - http://blog.thisiscatalogue.co.uk/ (Design blog)
