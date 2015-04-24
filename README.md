@@ -27,6 +27,7 @@ __Designers__
 - [Made Thought](http://www.madethought.com/)
 - [Andrew McCarthy](http://andrevv.com/)
 - [Jon Kyle](http://jon-kyle.com/)
+- [Rita Matos](http://cargocollective.com/aritamatos)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
