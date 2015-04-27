@@ -68,6 +68,7 @@ __Websites__
 - http://www.mohsinlondon.com/ (Extended type)
 - http://foodstudio.no/ (Clean site, with considered type. Splash/landing gallery is good)
 - http://marfajournal.com/ (Interesting use of fixed backgrounds and colour)
+- http://opensource.london/ (Stretching and squeezing big B&W type)
 
 __Misc__
 - http://www.textfiles.com/ufo/
