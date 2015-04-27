@@ -35,6 +35,7 @@ __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Graphik](https://commercialtype.com/typefaces/graphik/graphik/regular)
 - [Neue Haas Unica](http://www.monotype.com/libraries/neue-haas-unica/)
 - [Basis Grotesque](http://www.colophon-foundry.org/fonts/basis-grotesque/bold)
+- [Fugue](http://www.radimpesko.com/fonts/fugue)
 
 __Looking__
 - http://blog.thisiscatalogue.co.uk/ (Design blog)
