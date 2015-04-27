@@ -54,6 +54,7 @@ __Type foundries__
 - [Or Type](http://www.ortype.is/)
 - [Colophon Foundry](http://www.colophon-foundry.org/)
 - [Medium Extra Bold](http://mediumextrabold.com/)
+- [Radim Pesko](http://www.radimpesko.com/)
 
 __Web development__
 - [Brian Watterson](http://brianwatterson.com/)
