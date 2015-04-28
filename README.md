@@ -24,6 +24,7 @@ __Designers__
 - [Philip Cronerud](http://philipcronerud.com/)
 - [Research and Development](http://www.researchanddevelopment.se/)
 - [Future Corp](http://marckremers.com/)
+- [Europa](http://europaeuropa.co.uk/)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
