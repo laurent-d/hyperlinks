@@ -4,6 +4,7 @@ hyperlinks
 
 __Code__
 - [React + Flux + Rails](https://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 __Designers__
 - [Think Work Observe](http://t-wo.it/category/dashboard/)
