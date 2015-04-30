@@ -2,6 +2,9 @@
 hyperlinks
 ```
 
+__Code__
+- [React + Flux + Rails](https://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
+
 __Designers__
 - [Think Work Observe](http://t-wo.it/category/dashboard/)
 - [Ines Cox](http://inescox.com/)
