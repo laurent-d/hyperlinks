@@ -60,6 +60,7 @@ __Type foundries__
 - [Colophon Foundry](http://www.colophon-foundry.org/)
 - [Medium Extra Bold](http://mediumextrabold.com/)
 - [Radim Pesko](http://www.radimpesko.com/)
+- [Lineto](http://lineto.com/)
 
 __Web development__
 - [Brian Watterson](http://brianwatterson.com/)
