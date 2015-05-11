@@ -54,6 +54,7 @@ __Tools__
 - [Fontello](http://fontello.com/) (For creating icon font files)
 - [Colorable](http://jxnblk.com/colorable/) (For understanding legibility of different colour combinations)
 - [Stack Editor](https://stackedit.io/) (Edit markdown in the browser, with live rendering)
+- [RGB.to](http://rgb.to/) (Get all the colours)
 
 __Type foundries__
 - [Grilli Type](http://grillitype.com/)
