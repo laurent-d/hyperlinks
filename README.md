@@ -64,6 +64,7 @@ __Type foundries__
 - [Radim Pesko](http://www.radimpesko.com/)
 - [Lineto](http://lineto.com/)
 - [Millieu Grotesque](http://www.milieugrotesque.com/)
+- [NBL](http://neubauladen.com/)
 
 __Web development__
 - [Brian Watterson](http://brianwatterson.com/)
