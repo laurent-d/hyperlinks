@@ -87,5 +87,6 @@ __Websites__
 __Misc__
 - http://www.textfiles.com/ufo/
 - http://codepen.io/jakealbaugh/full/PwLXXP/ (Pen that seemingly codes itself, not in an A.I. way though)
+- https://www.youtube.com/watch?v=N6E1ipW1WrA (Ill Studio directed short on Augmented Reality)
 
 _NB: This will be sparse to begin with, need to find time to get all my browser bookmarks in here_
