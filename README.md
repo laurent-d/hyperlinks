@@ -69,6 +69,7 @@ __Type foundries__
 __Web development__
 - [Brian Watterson](http://brianwatterson.com/)
 - [James Chambers](http://jameschambers.co)
+- [Samuel Reed](http://strml.net/)
 
 __Websites__
 - http://edouardmalingue.com/ (nice custom type, simple layout)
