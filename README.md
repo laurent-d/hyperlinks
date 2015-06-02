@@ -30,6 +30,7 @@ __Designers__
 - [Future Corp](http://marckremers.com/) (Art direction, web design)
 - [Europa](http://europaeuropa.co.uk/) (Studio, graphic design)
 - [Kevin Zwweerink](http://kevinzweerink.com/) (Student, graphic design, web development)
+- [Kia Tasbihgou](http://www.kiatas.me/) (Recent graduate, design, type, web design)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
