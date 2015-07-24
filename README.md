@@ -86,6 +86,7 @@ __Websites__
 - http://marfajournal.com/ (Interesting use of fixed backgrounds and colour)
 - http://opensource.london/ (Stretching and squeezing big B&W type)
 - http://work.co/ (The preview grid for the menu is awesome)
+- https://loop.ableton.com/ (Text masking on gradient)
 
 __Misc__
 - http://www.textfiles.com/ufo/
