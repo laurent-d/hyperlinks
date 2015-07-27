@@ -41,6 +41,9 @@ __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Fugue](http://www.radimpesko.com/fonts/fugue)
 - [Maria Pro](http://www.philbaber.com/philbaber/maria/)
 
+__Illustration__
+- [Lennard Kok](http://www.lennardkok.com/)
+
 __Looking__
 - http://blog.thisiscatalogue.co.uk/ (Design blog)
 
