@@ -43,6 +43,7 @@ __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 
 __Illustration__
 - [Lennard Kok](http://www.lennardkok.com/)
+- [John Pound](http://www.poundart.com/) – cartoons drawn from code
 
 __Looking__
 - http://blog.thisiscatalogue.co.uk/ (Design blog)
