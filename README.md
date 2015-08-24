@@ -31,6 +31,7 @@ __Designers__
 - [Europa](http://europaeuropa.co.uk/) (Studio, graphic design)
 - [Kevin Zwweerink](http://kevinzweerink.com/) (Student, graphic design, web development)
 - [Kia Tasbihgou](http://www.kiatas.me/) (Recent graduate, design, type, web design)
+- [Martí Peérez Palau](http://martiperezpalau.com/) (Art direction, design, XL recordings)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
