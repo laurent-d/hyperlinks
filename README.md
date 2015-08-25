@@ -76,6 +76,7 @@ __Web development__
 - [Brian Watterson](http://brianwatterson.com/)
 - [James Chambers](http://jameschambers.co)
 - [Samuel Reed](http://strml.net/)
+- [John D. Jameson](http://johndjameson.com/) (web typography and front end)
 
 __Websites__
 - http://edouardmalingue.com/ (nice custom type, simple layout)
