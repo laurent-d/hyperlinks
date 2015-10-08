@@ -33,6 +33,7 @@ __Designers__
 - [Kia Tasbihgou](http://www.kiatas.me/) (Recent graduate, design, type, web design)
 - [Martí Peérez Palau](http://martiperezpalau.com/) (Art direction, design, XL recordings)
 - [Lukas Ackermann](http://www.lukasackermann.ch/) (Graphic design, graduate)
+- [Studio Mut](http://studiomut.com/) (Poster design, colourful)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
