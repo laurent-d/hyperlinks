@@ -34,6 +34,7 @@ __Designers__
 - [Martí Peérez Palau](http://martiperezpalau.com/) (Art direction, design, XL recordings)
 - [Lukas Ackermann](http://www.lukasackermann.ch/) (Graphic design, graduate)
 - [Studio Mut](http://studiomut.com/) (Poster design, colourful)
+- [Max Prediger](http://maxprediger.com/) (German, design and typography)
 
 __Fonts__ (More at [typesample](http://www.typesample.com/moreguppy))
 - [Nitti Grotesk](http://www.webtype.com/font/nitti-grotesk-family/)
